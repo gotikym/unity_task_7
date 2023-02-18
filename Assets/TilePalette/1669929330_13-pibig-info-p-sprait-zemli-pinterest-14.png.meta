@@ -1,0 +1,1398 @@
+fileFormatVersion: 2
+guid: cfeb7ad1d2e134845ae7e778fa9540e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3171154503fd04bb012a30708695e8
+      internalID: -1585201006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 299
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5653f44544b0b243b11d3088d720676
+      internalID: -592596106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e330726649db54f9842483e708aeab
+      internalID: 314801442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 119
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: -80}
+        - {x: -59.5, y: 81}
+        - {x: 59.5, y: 81}
+        - {x: 59.5, y: 51}
+        - {x: 43.5, y: -63}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bccdb81be81f04a8593cf4659f2115
+      internalID: -1322970403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 154
+        width: 179
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d4692ab1fa7540b27fd2dc69cea0b
+      internalID: -1616847991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 219
+        width: 61
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b64109db57eea48abfb38b6781eb84
+      internalID: 1162921659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a7b14647e88148b0d7d63e90cad17
+      internalID: -602787650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 274
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5658cef9c94c4489830164862ab99
+      internalID: 1486696287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 274
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6cdfc64326aa94cb38612777238416
+      internalID: -786969988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 214
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9947d290b00a8ac40ae7bb4cf2b66f06
+      internalID: 1842102129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 214
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411bc08ef4f59204398744d1caba5bf1
+      internalID: 1699919744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 216
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b82dac39065d604a840c0e704a214b7
+      internalID: -1418251428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 154
+        width: 64
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec4569abb946b43840b59598901fb2
+      internalID: 1377681871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 154
+        width: 54
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e544fc21538f6a645becb18c25873c02
+      internalID: 836031144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 180
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017bfb9b4e2d4b2458c66a9eae0b7763
+      internalID: -253964089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 181
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e411db2c7c6f04b8e6088c389dbe14
+      internalID: 927376424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 181
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130da7a9ef56f242ac9d76ddfc62977
+      internalID: -1637596783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d65fc7ec34ae4db0a44a0d1b094f8
+      internalID: 451639866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 161
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536b8fb632c6144bb570de0a510844c
+      internalID: -884009976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da28d59d892b1f47897267d298b9995
+      internalID: 619736414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c57675a0efcd4db28cf3fcc0b52a0
+      internalID: -1174270290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 165
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ebfb1526c6a3438dfbea85c260fb7
+      internalID: 1134511968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60ac35892ddeb4d94564be90ccf8a0
+      internalID: -1115536251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 141
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a53aaa8dc23205428ffd5ea2a44f58f
+      internalID: -1908648285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54f4a5f9bb29c43920e30190bed624
+      internalID: -1984354093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 143
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac52bda3973475846ace9cebc09a2dcf
+      internalID: 776226185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fece7fe3a6f23e438ee8ed17a677d72
+      internalID: 1269240014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 118
+        width: 85
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408bdc64dbd8154c927259f32093064
+      internalID: -1796744633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 118
+        width: 53
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77be5d7a4df794f8233f5f267373d2
+      internalID: 2122909253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70736437d375846b81e1608e2f5c73
+      internalID: -938103249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 101
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb2689be5f68b4795efc12f9f23ba1
+      internalID: -332975109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 121
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ec2d2ecc008740bae2eeda302adef
+      internalID: -1549786223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 121
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeb8cb11a69b7c4b8100db48bb36a6c
+      internalID: -1204346085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 113
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40884beeaed5141a4d24a42b245a24
+      internalID: -703741089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 118
+        width: 46
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9158f0dd74bbe46ab1c29cec384d0c
+      internalID: -1774494046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 118
+        width: 39
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8004eb7363f8d4ea3c5cd39a8e2798
+      internalID: 63984731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 118
+        width: 32
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261b382b7ab30c44837358f921545c4
+      internalID: -1211333695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 118
+        width: 37
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe763c826e81b4484d8b92287089e0
+      internalID: -416668001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a588fba18638b4295326412d94a093
+      internalID: -1222675158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 87
+        width: 48
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04948567fe82ff246afca18eb00db835
+      internalID: -1762168438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 87
+        width: 70
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8885ef84806f094c8000b8108543aa4
+      internalID: -242502950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 87
+        width: 72
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc37bf9f8337d940bf8bc16feef06c2
+      internalID: -1799265053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 87
+        width: 61
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703dfbb14643a14fac4e4ca03279ac7
+      internalID: -1881310296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 87
+        width: 60
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bece0bc865a7764bbd19e7d73724c48
+      internalID: 5619856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 83
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e65ef111e56a446b83dfc773427a0d
+      internalID: -1886063458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acbc06518a5bf641a5d05330be87801
+      internalID: 1728243114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 54
+        width: 70
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb7ff7ce4a7b7649807be7c2722df7b
+      internalID: 155968371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 43
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ae3e668dd79243b7e36779a15e95c
+      internalID: -1485337614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 43
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a1397b2094ac458ce90bbec8c2d6d
+      internalID: -1186274798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 43
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808059cba719a834ab9af4fb495838e5
+      internalID: -1632171900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 43
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19018e911a703024eb281b2fb6be36b4
+      internalID: 1558808353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_51
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 43
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb247a510e2a74a96377df5c8adc6b
+      internalID: 1542663962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 58
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b221e10d774ade6478377bedfa08683f
+      internalID: -1219672740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cadb67e4432e5247afbb90c469ce999
+      internalID: -2003518460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 21
+        width: 34
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4674ed4bb1c94e9283691473817f2
+      internalID: 509562124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_52: -1219672740
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_46: 155968371
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_20: -1174270290
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_41: -1799265053
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_32: -1204346085
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_22: -1115536251
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_24: -1984354093
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_30: -332975109
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_10: 1699919744
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_8: -786969988
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_54: 509562124
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_5: 1162921659
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_51: 1542663962
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_3: -1322970403
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_4: -1616847991
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_16: -1637596783
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_38: -1222675158
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_14: -253964089
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_26: 1269240014
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_42: -1881310296
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_40: -242502950
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_31: -1549786223
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_44: -1886063458
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_0: -1585201006
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_28: 2122909253
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_1: -592596106
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_50: 1558808353
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_35: 63984731
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_49: -1632171900
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_15: 927376424
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_2: 314801442
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_27: -1796744633
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_33: -703741089
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_25: 776226185
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_6: -602787650
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_7: 1486696287
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_29: -938103249
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_37: -416668001
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_47: -1485337614
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_21: 1134511968
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_12: 1377681871
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_23: -1908648285
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_53: -2003518460
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_39: -1762168438
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_18: -884009976
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_36: -1211333695
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_45: 1728243114
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_13: 836031144
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_9: 1842102129
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_17: 451639866
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_34: -1774494046
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_11: -1418251428
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_48: -1186274798
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_19: 619736414
+      1669929330_13-pibig-info-p-sprait-zemli-pinterest-14_43: 5619856
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
