@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     private const string IsRunning = "isRunning";
     private const string Horizontal = "Horizontal";
+
     private bool facingRight = true;
 
     private Animator _animator;

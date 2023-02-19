@@ -6,7 +6,7 @@ public class SpawnCoin : MonoBehaviour
 {
     [SerializeField] private Coin _coin;
 
-    void Start()
+    private void Start()
     {
         StartCoroutine(CreateCoin());
     }

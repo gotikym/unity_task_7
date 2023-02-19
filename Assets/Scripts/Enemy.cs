@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    private const string IsWalk = "isWalk";
 
     [SerializeField] private Transform _path;
     [SerializeField] private float _speed;
     [SerializeField] private float _waitTime;
 
-    private const string IsWalk = "isWalk";
     private bool facingRight = false;
 
     private SpriteRenderer _spriteRenderer;
